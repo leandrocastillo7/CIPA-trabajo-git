@@ -1,1 +1,1 @@
-# proyecto CIPA -  Trabajo Colaborativo 
+# Proyecto CIPA - Trabajo Colaborativo 
